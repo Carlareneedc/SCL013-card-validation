@@ -1,8 +1,13 @@
 
+<<<<<<< HEAD
 function isValid(creditCardNumber);
 let creditCardNumber =[];
 
 const validator= {
+=======
+
+const validator = {
+>>>>>>> upstream/master
 
 };
 
