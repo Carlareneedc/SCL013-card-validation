@@ -3,7 +3,6 @@
   font-family: 'Baloo 2', cursive;
   text-align: center;
   color: black;
-<<<<<<< HEAD
    }
   header{
    width: 100%;
@@ -48,13 +47,12 @@
   .slideThree{
     
   }
-  
-  
   #validado {
     color:salmon
-  }
-  
-=======
+}
+  footer {font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size:13px;
+  text-align:right;
   }
 
   header{
@@ -108,39 +106,10 @@
   color:salmon
   }
 
->>>>>>> upstream/master
   footer {font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-size:13px;
   text-align:right;
   }
-<<<<<<< HEAD
-  
-  
-  
-  #textoIngresaTarjeta {
-    font-size:150%;
-  }
-  
-  #enterCard {
-  display:none;
-  }
-  
-  #forbiddenAccess {
-    display:none;
-  }
-  
-  #about {
-    display:none;
-  }
-  
-  #contactForm {
-    display:none;
-  }
-  
-  #finalScreen {
-    display:none;
-  }
-=======
 
   #textoIngresaTarjeta {
   font-size:150%;
@@ -165,5 +134,3 @@
   #finalScreen {
   display:none;
   }
-  
->>>>>>> upstream/master
